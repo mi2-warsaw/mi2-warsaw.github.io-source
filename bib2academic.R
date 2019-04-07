@@ -7,7 +7,8 @@ httr::set_config(httr::config(http_version = 0))
 scholar_df <- lapply(c("pub_data/mateusz-staniak",
                        "pub_data/michal-burdukiewicz",
                        "pub_data/przemyslaw-biecek",
-                       "pub_data/tomasz-stanislawek"),
+                       "pub_data/tomasz-stanislawek",
+                       "pub_data/anna-wroblewska"),
                      function(ith_file) {
                        scholar::get_publications(last(strsplit(readLines(paste0(ith_file, "/scholar.txt")), "=")[[1]])) %>%
                          select(title = title, cid = cid) %>%

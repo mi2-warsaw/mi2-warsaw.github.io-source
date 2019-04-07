@@ -1,5 +1,5 @@
 +++
-title = "Neutrophils Degranulation Marker-Leucocyte Elastase-A; 1protease Inhibitor Complex: A Comparative Study With Classic (a; 1m, B; 2m) And Novel (ngal, Il-18) Kidney Graft Injury …"
+title = "NEUTROPHILS DEGRANULATION MARKER-LEUCOCYTE ELASTASE-A; 1PROTEASE INHIBITOR COMPLEX: A COMPARATIVE STUDY WITH CLASSIC (A; 1M, B; 2M) AND NOVEL (NGAL, IL-18) KIDNEY GRAFT INJURY …"
 date = "2008-01-01"
 publication_types = ["2"]
 authors = ["M Zynek-Litwin", "J Kuzniar", "Z Marchewka", "W Kopec", "M Kusztal", "B Szymanska", "D Patrzalek", "P Biecek", "M Klinger"]

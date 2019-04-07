@@ -1,5 +1,5 @@
 +++
-title = "intsvy: An R package for analysing international large-scale assessment data"
+title = "intsvy: An R package for analysing International large-scale assessment data"
 date = "2017-01-01"
 publication_types = ["2"]
 authors = ["Daniel H Caro", "Przemyslaw Biecek"]

@@ -1,5 +1,5 @@
 +++
-title = "Predictive model for infection risk in myelodysplastic syndromes, acute myeloid leukemia and chronic myelomonocytic leukemia patients treated with azacitidine-Azacitidine …"
+title = "Predictive Model for Infection Risk in Myelodysplastic Syndromes, Acute Myeloid Leukemia, and Chronic Myelomonocytic Leukemia Patients Treated With Azacitidine; Azacitidine …"
 date = "2019-01-01"
 publication_types = ["2"]
 authors = ["Krzysztof Madry", "Karol Lis", "Przemyslaw Biecek", "Magda Mlynarczyk", "Jagoda Rytel", "Michal Gorka", "Piotr Kacprzyk", "Magdalena Dutka", "Marek Rodzaj", "Lukasz Bolkun", "{others}"]

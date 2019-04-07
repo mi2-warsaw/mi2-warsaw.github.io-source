@@ -1,5 +1,5 @@
 +++
-title = "Leucocyte Elastase-a; 1protease Inhibitor Complex–Neutrophil Degranulation Marker In Plasma And Urine Of Patients After Deceased Renal Allograft Transplantation. Assessment Of …"
+title = "LEUCOCYTE ELASTASE-A; 1PROTEASE INHIBITOR COMPLEX–NEUTROPHIL DEGRANULATION MARKER IN PLASMA AND URINE OF PATIENTS AFTER DECEASED RENAL ALLOGRAFT TRANSPLANTATION. ASSESSMENT OF …"
 date = "2008-01-01"
 publication_types = ["2"]
 authors = ["M Zynek-Litwin", "J Kuzniar", "Z Marchewka", "W Kopec", "M Kusztal", "D Patrzalek", "P Biecek", "A Dlugosz", "M Klinger"]

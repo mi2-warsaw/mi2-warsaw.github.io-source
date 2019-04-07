@@ -1,5 +1,5 @@
 +++
-title = "Ac-impedance Spectroscopy Technique for the Detection of Dental Caries in Human Teeth: 80"
+title = "Ac-impedance spectroscopy technique for the detection of dental caries in human teeth"
 date = "2007-01-01"
 publication_types = ["2"]
 authors = ["P Los", "NB Pitts", "C Longbottom", "AF Hall", "A Czajczynska-Waszkiewicz", "M Masalski", "P Biecek"]
@@ -19,7 +19,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Google Scholar", url = "https://scholar.google.pl/scholar?cites=14300407712471564829"}]
+url_custom = [{name = "Google Scholar", url = "https://scholar.google.pl/scholar?cites=704392881725709580"}]
 math = true
 highlight = true
 [header]

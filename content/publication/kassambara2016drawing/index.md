@@ -1,5 +1,5 @@
 +++
-title = "Drawing Survival Curves using ‘ggplot2’"
+title = "Drawing survival curves using ‘ggplot2’"
 date = "2016-01-01"
 publication_types = ["2"]
 authors = ["Alboukadel Kassambara", "M Kosinski", "P Biecek"]
