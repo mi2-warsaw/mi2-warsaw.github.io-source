@@ -4,11 +4,7 @@ library(dplyr)
 
 httr::set_config(httr::config(http_version = 0))
 
-scholar_df <- lapply(c("pub_data/mateusz-staniak",
-                       "pub_data/michal-burdukiewicz",
-                       "pub_data/przemyslaw-biecek",
-                       "pub_data/tomasz-stanislawek",
-                       "pub_data/anna-wroblewska"),
+scholar_df <- lapply(list.files("pub_data", full.names = TRUE),
                      function(ith_file) {
                        scholar::get_publications(last(strsplit(readLines(paste0(ith_file, "/scholar.txt")), "=")[[1]])) %>%
                          select(title = title, cid = cid) %>%
@@ -17,10 +13,7 @@ scholar_df <- lapply(c("pub_data/mateusz-staniak",
   bind_rows() %>%
   unique
 
-pub_df <- lapply(c("pub_data/mateusz-staniak",
-                   "pub_data/michal-burdukiewicz",
-                   "pub_data/przemyslaw-biecek",
-                   "pub_data/tomasz-stanislawek"),
+pub_df <- lapply(list.files("pub_data", full.names = TRUE),
                  function(ith_file) {
                    bib_list <- RefManageR::ReadBib(paste0(ith_file, "/citations.bib"),
                                                    check = FALSE,
@@ -62,11 +55,6 @@ final_bib_df <- select(pub_df, -clean_title) %>%
   inner_join(scholar_df, by = c("scholar_title" = "title")) %>%
   select(-clean_title, -title) %>%
   rename(title = scholar_title)
-
-RefManageR::ReadBib("pub_data/mateusz-staniak/citations.bib",
-                    check = FALSE,
-                    .Encoding = "UTF-8") %>%
-  data.frame()
 
 lapply(1L:nrow(final_bib_df), function(ith_pub) {
   filepath <- paste0("content/publication/",

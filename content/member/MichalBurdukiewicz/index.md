@@ -31,7 +31,10 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://github.com/ModelOriented"}]
+url_custom = [{icon_pack = "fab", icon="github", name="GitHub", url = "https://github.com/michbur"},
+              {icon_pack = "fab", icon="linkedin", name="LinkedIn", url = "https://www.linkedin.com/in/micha%C5%82-burdukiewicz-321747167/"},
+              {icon_pack = "fab", icon="researchgate", name="ResearchGate", url = "https://www.researchgate.net/profile/Michal_Burdukiewicz"}]
+# url_custom = [{icon_pack = "fab", icon="linkedin", name="Follow", url = "https://github.com/ModelOriented"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -44,6 +47,6 @@ url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://g
   focal_point = "Smart"
 +++
 
-
+Bioinformatician, an avid R enthusiast and a proud father of two.
 
 <a href="/mi2-test2/authors/michal-burdukiewicz/">Michal Burdukiewicz's publications </a>.
