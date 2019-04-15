@@ -6,7 +6,7 @@ title = "Michal Kuźba"
 date = 2018-03-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "PhD student"
+summary = "Group member, master's student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "interpretable-machine-learning"]`
@@ -31,8 +31,8 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://github.com/ModelOriented"}]
-
+ url_custom = [{icon_pack = "fab", icon="github", name="GitHub", url = "https://github.com/kmichael08"},
+              {icon_pack = "fab", icon="linkedin", name="LinkedIn", url = "https://www.linkedin.com/in/michalkuzba/"},
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
@@ -44,4 +44,4 @@ url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://g
   focal_point = "Smart"
 +++
 
-About
+I am a master's student interested in Data Science, Machine Learning and NLP. 
