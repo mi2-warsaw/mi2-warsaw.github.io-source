@@ -10,7 +10,7 @@ summary = "Group member, BS student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "interpretable-machine-learning"]`
-tags = ["data-visualisation", "interpretable-machine-learning"]
+tags = ["data-visualization", "interpretable-machine-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
