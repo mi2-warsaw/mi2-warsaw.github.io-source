@@ -6,11 +6,11 @@ title = "Hubert Baniecki"
 date = 2018-03-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "PhD student"
+summary = "BS student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "interpretable-machine-learning"]`
-tags = ["machine-learning", "interpretable-machine-learning"]
+tags = ["data-visualisation", "interpretable-machine-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -31,7 +31,8 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://github.com/ModelOriented"}]
+url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://github.com/hbaniecki"},
+{icon_pack = "fab", icon="linkedin", name="LinkedIn", url = "https://www.linkedin.com/in/hubert-baniecki/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -44,4 +45,4 @@ url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://g
   focal_point = "Smart"
 +++
 
-About
+Bachelor's student interested in Data Exploration and Visualization.
