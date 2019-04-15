@@ -6,7 +6,7 @@ title = "Hubert Baniecki"
 date = 2018-03-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "BS student"
+summary = "Group member, BS student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "interpretable-machine-learning"]`
@@ -45,4 +45,4 @@ url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://g
   focal_point = "Smart"
 +++
 
-Bachelor's student interested in Data Exploration and Visualization.
+Bachelor's student in Data Science. I am interested in Data Visualization and XAI.
