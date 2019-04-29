@@ -2,12 +2,9 @@
 
 ## Generowanie strony
 
-hugo server --renderToDisk
+ hugo server --baseUrl=https://mi2-warsaw.github.io/ --bind="0.0.0.0" --port=1313 --appendPort=false
 
 Katalog public to repozytorium mi2-warsaw.github.io.
-
-## Zdjęcia profilowe - wymagania:
-- proporcje 3x2
 
 ## License
 
