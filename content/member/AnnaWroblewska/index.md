@@ -51,4 +51,4 @@ Anna Wróblewska is an assistant professor at Warsaw University of Technology. S
 
 Previously she worked at Allegro, the biggest e-commerce marketplace portal in Eastern Europe, where she dealt with the intelligent methods of data analysis. She is the author of over 35 publications in Polish and international journals and materials. Her main research interests are focused on machine learning in practical applications, primarily the semantic understanding and modeling data and their interpretability.
 
-<a href="/mi2-test2/authors/anna-wroblewska">Anna Wróblewska's publications </a>.
+<a href="/mi2-warsaw.github.io/authors/anna-wroblewska">Anna Wróblewska's publications </a>.

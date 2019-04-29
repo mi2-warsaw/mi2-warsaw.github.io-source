@@ -46,3 +46,5 @@ url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://g
 
 PhD candidate in (Interpretable) Machine Learning. 
 I am interested in local explanations of machine learning models, automated Exploratory Data Analysis and applications of Stats&ML in medicine and proteomics.
+
+<a href="/mi2-warsaw.github.io/authors/mateusz-staniak/">Mateusz Staniak's publications </a>.
