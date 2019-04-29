@@ -2,7 +2,7 @@
 
 ## Generowanie strony
 
- hugo server --baseUrl=https://mi2-warsaw.github.io/ --bind="0.0.0.0" --port=1313 --appendPort=false
+ hugo server --baseUrl=https://mi2-warsaw.github.io/ --bind="0.0.0.0" --port=1313 --appendPort=false  --renderToDisk
 
 Katalog public to repozytorium mi2-warsaw.github.io.
 
