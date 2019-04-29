@@ -49,4 +49,4 @@ url_custom = [{icon_pack = "fas", icon="globe-americas", name="Website", url = "
 
 PhD student in Computer Science, keen on machine learning and its applications. Currently, I am interested in Interpretable Machine Learning (IML), Automated Machine Learning (AutoML), and auditability of predictive models. 
 
-<a href="/mi2-warsaw.github.io/authors/alicja-gosiewska/">Alicja Gosiewska's publications</a>.
+<a href="/authors/alicja-gosiewska/">Alicja Gosiewska's publications</a>.

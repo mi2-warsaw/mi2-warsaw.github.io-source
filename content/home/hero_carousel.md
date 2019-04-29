@@ -18,7 +18,7 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Poster prize "
-  content = "Alicja Gosiewska and Agnieszka Ciepielewska won the best poster award at PLinML2018"
+  content = "Alicja Gosiewska and Agnieszka Ciepielewska won the Audience Poster Award at PLinML2018"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -27,13 +27,13 @@ height = "500px"
   overlay_img = "poster-prize.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "Proin"
-  content = "Proin consectetur condimentum tellus, vel malesuada orci semper ornare. "
-  align = "left"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "vapnik.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1 # Darken the image. Value in range 0-1.
+#[[item]]
+#  title = "Proin"
+#  content = "Proin consectetur condimentum tellus, vel malesuada orci semper ornare. "
+#  align = "left"
+#
+#  overlay_color = "#555"  # An HTML color value.
+#  overlay_img = "vapnik.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.1 # Darken the image. Value in range 0-1.
 
 +++

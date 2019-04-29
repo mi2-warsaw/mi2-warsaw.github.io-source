@@ -49,4 +49,4 @@ url_custom = [{icon_pack = "fab", icon="github", name="GitHub", url = "https://g
 
 Bioinformatician, an avid R enthusiast and a proud father of two.
 
-<a href="/mi2-warsaw.github.io/authors/michal-burdukiewicz/">Michal Burdukiewicz's publications </a>.
+<a href="/authors/michal-burdukiewicz/">Michal Burdukiewicz's publications </a>.
