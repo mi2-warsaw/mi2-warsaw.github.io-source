@@ -6,7 +6,7 @@ title = "Hubert Baniecki"
 date = 2018-03-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "Group member, BS student"
+summary = "Interactive machine learning explainers, BS student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "interpretable-machine-learning"]`

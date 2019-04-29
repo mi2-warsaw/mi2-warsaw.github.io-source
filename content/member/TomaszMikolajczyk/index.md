@@ -3,10 +3,10 @@
 title = "Tomasz Mikołajczyk"
 
 # Date this page was created.
-date = 2018-03-26T00:00:00
+date = 2018-04-07T00:00:00
 
 # Project summary to display on homepage.
-summary = "PhD"
+summary = "Data Science, PhD"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "interpretable-machine-learning"]`

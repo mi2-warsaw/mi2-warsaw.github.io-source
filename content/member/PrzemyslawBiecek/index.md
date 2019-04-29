@@ -6,7 +6,7 @@ title = "Przemysław Biecek"
 date = 2019-03-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "Group leader"
+summary = "Artificial Intelligence, PhD, Principal Data Scientist @ Samsung R&D Poland"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

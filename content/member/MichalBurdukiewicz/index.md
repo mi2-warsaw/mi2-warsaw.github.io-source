@@ -3,10 +3,10 @@
 title = "Michał Burdukiewicz"
 
 # Date this page was created.
-date = 2018-03-26T00:00:00
+date = 2018-04-05T00:00:00
 
 # Project summary to display on homepage.
-summary = "Group member, PhD"
+summary = "Bioinformatics, PhD"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "interpretable-machine-learning"]`
