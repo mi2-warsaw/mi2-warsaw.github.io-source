@@ -23,10 +23,11 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-MI² is a group of mathematicians and computer scientists that love to play with data. 
+<p class="hero-lead">MI² is a group of mathematicians and computer scientists that love to play with data.</p>
 
-We are spread between Warsaw University of Technology and University of Warsaw. 
-Data Lab is our creative space. 
+<p class="hero-lead">We are spread between Warsaw University of Technology and University of Warsaw.</p> 
 
-Here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude.
+<p class="hero-lead">Data Lab is our creative space.</p> 
+
+<p class="hero-lead">Here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude.</p>
 
