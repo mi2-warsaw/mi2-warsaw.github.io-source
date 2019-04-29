@@ -23,4 +23,10 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-Phasellus luctus massa in commodo tempor. Sed ut justo urna. Fusce auctor, nulla vitae tincidunt vehicula, lorem diam consequat augue, at ultrices mi urna eget mi. Maecenas euismod arcu efficitur augue placerat, nec ornare lacus tempor. Proin consectetur condimentum tellus, vel malesuada orci semper ornare. Donec porta erat id ultrices semper. Donec molestie, mauris ac porta gravida, nisi nisi iaculis ex, at pellentesque velit dolor a elit.
+MI² is a group of mathematicians and computer scientists that love to play with data. 
+
+We are spread between Warsaw University of Technology and University of Warsaw. 
+Data Lab is our creative space. 
+
+Here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude.
+
