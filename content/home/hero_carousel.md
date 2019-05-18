@@ -17,6 +17,17 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "Preludium grant for Barbara Rychalska "
+  content = "Barbara Rychalska received a Preludium grant for her projekt MAD-NLP: Multi-Aspect Diagnosis of NLP models"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "ncn.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Poster prize "
   content = "Alicja Gosiewska and Agnieszka Ciepielewska won the Audience Poster Award at PLinML2018"
   align = "center"  # Choose `center`, `left`, or `right`.
@@ -26,7 +37,7 @@ height = "500px"
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "poster-prize.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
+  
 #[[item]]
 #  title = "Proin"
 #  content = "Proin consectetur condimentum tellus, vel malesuada orci semper ornare. "
