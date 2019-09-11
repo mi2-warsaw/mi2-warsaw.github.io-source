@@ -17,8 +17,8 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Preludium grant for Barbara Rychalska "
-  content = "Barbara Rychalska received a Preludium grant for her projekt MAD-NLP: Multi-Aspect Diagnosis of NLP models"
+  title = "Preludium grant: MAD-NLP"
+  content = "Barbara Rychalska and Dominika Basaj jointly received a Preludium grant for their projekt MAD-NLP: Multi-Aspect Diagnosis of NLP models"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
