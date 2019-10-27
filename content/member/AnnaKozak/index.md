@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Tomasz Stanisławek"
+title = "Anna Kozak"
 
 # Date this page was created.
-date = 2018-03-27T00:00:00
+date = 2018-03-25T00:00:00
 
 # Project summary to display on homepage.
-summary = "Text and Image Processing, PhD student"
+summary = "Master student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "interpretable-machine-learning"]`
@@ -44,4 +44,6 @@ url_custom = [{icon_pack = "fab", icon="github", name="Follow", url = "https://g
   focal_point = "Smart"
 +++
 
-About
+
+<a href="/authors/anna-kozak/">Anna Kozak's publications </a>.
+

@@ -3,7 +3,7 @@
 title = "Katarzyna Kobylińska"
 
 # Date this page was created.
-date = 2018-03-26T00:00:00
+date = 2018-03-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "Biostatistics, PhD student"
