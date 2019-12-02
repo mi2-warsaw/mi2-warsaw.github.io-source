@@ -17,14 +17,47 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Preludium grant: MAD-NLP"
-  content = "Barbara Rychalska and Dominika Basaj jointly received a Preludium grant for their projekt MAD-NLP: Multi-Aspect Diagnosis of NLP models"
+  title = "MLinPL 2019"
+  content = "Members of MI2 had a presentation and six posters during the MLinPL 2019"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "ncn.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "mlinpl.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "New hexes"
+  content = "The DrWhy.AI family has grown! New packages appeared not only on CRAN, but also on cups and cookies."
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "hexes.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "AIME 2019"
+  content = "Przemysław Biecek, Katarzyna Kobylińska and Tomasz Mikołajczyk participated in the 17th Conference on Artificial Intelligence in Medicine AIME 2019"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "aime.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Summer retreat"
+  content = "MI2 summer retreat in Strachówka."
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "retreat.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
