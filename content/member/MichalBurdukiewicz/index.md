@@ -47,6 +47,6 @@ url_custom = [{icon_pack = "fab", icon="github", name="GitHub", url = "https://g
   focal_point = "Smart"
 +++
 
-Bioinformatician, an avid R enthusiast and a proud father of two.
+Bioinformatician and an avid R enthusiast.
 
 <a href="/authors/michal-burdukiewicz/">Michal Burdukiewicz's publications </a>.
